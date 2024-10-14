@@ -1,0 +1,39 @@
+{
+  "manifest_version": 2,
+  "version": "2.0",
+  "name": "TeamApp (naranja)",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.jpg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(245, 245, 245)",
+      "toolbar_text": "rgb(26, 27, 14)",
+      "frame": "rgb(253, 121, 13)",
+      "tab_background_text": "rgb(245, 245, 245)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(26, 27, 14)",
+      "tab_line": "rgb(94, 201, 64)",
+      "popup": "rgb(245, 245, 245)",
+      "popup_text": "rgb(26, 27, 14)",
+      "button_background_active": "rgb(255, 255, 255)",
+      "button_background_hover": "rgb(255, 235, 218)",
+      "ntp_background": "rgb(255, 156, 70)",
+      "ntp_text": "rgb(255, 179, 117)",
+      "toolbar_bottom_separator": "rgb(253, 121, 13)",
+      "toolbar_field_highlight_text": "rgb(245, 245, 245)",
+      "toolbar_field_highlight": "rgb(253, 121, 13)",
+      "tab_loading": "rgb(94, 201, 64)"
+    }
+  }
+}
